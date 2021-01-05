@@ -1,0 +1,62 @@
+body{
+    font-family: 'Pirata One', cursive;
+    font-size: 35px;
+    margin: 0%;
+}
+.width{
+    width: 40%;
+    float: left;
+    margin:5%;
+    padding:5%%;
+    
+}
+img{
+    width: 100%;
+    
+}
+span{
+    color: cadetblue;
+}
+.Top-image{
+   background-image: url("Images/top-banner.png");
+}
+section{
+    height: 50%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(270deg ,black, white);
+    border-radius: 10px;
+    color:white;
+    font-weight: 900;
+   padding: 7px; 
+}
+.bottom-image{
+    background-image: url("Images/dream-bg.png");
+    background-position: right;
+}
+p{
+    color: dimgrey;
+}
+.new{
+    margin-left: 5%;
+}
+.wid{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    
+    margin-right:1px ;
+}
+.experience-area{
+    background-image:url("Images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 5px solid gray;
+    height: 100%;
+    
+}
